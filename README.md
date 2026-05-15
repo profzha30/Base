@@ -22,3 +22,4 @@ Base29
 Base26
 Base30
 Base31
+Base32
