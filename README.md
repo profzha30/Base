@@ -26,3 +26,4 @@ Base32
 Base33
 Base34
 Base35
+Base36
